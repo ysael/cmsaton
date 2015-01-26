@@ -1,0 +1,74 @@
+[
+    {
+        "type": "main",
+        "grid_position": "slide1_info",
+        "visual": "01-hp-main-campaign.jpg",
+        "perfectpair": "holiday"
+    },
+    {
+        "type": "story1",
+        "grid_position": "info",
+        "title": "Now's your chance to jump on the booties & flats that caught everyone’s eye - now available in new colours.  ",
+        "visual": "hp-story-01-ca.jpg"
+    },
+    {
+        "type": "story1",
+        "grid_position": "cta1",
+        "cta_text": "SHOP ANKLE BOOTS",
+        "cta_link_hybris": "http://www.aldoshoes.com/ca/en/women/boots/ankle-boots/c/131"
+    },
+    {
+        "type": "story2",
+        "grid_position": "info",
+        "title": "Our smooth leather boots boast serious style (and lighten up with contrasting soles).",
+        "visual": "hp-story-02-ca.jpg"
+    },
+    {
+        "type": "story2",
+        "grid_position": "cta",
+        "cta_text": "SHOP CASUAL BOOTS",
+        "cta_link_hybris": "http://www.aldoshoes.com/ca/en/men/boots/casual-boots/c/231"
+    },
+    {
+        "type": "story2",
+        "grid_position": "product1",
+        "visual": "hp-story-02-a.jpg",
+        "cta_text": "GROSSLEY-28",
+        "cta_link_hybris": "http://www.aldoshoes.com/ca/en/ALDO/men/boots/casual-boots/GROSSLEY/p/36886085-28",
+        "price": "165"
+    },
+    {
+        "type": "story2",
+        "grid_position": "product2",
+        "visual": "hp-story-02-b.jpg",
+        "cta_text": "BRERRADE-28",
+        "cta_link_hybris": "http://www.aldoshoes.com/ca/en/ALDO/men/boots/casual-boots/BRERRADE/p/36886093-28\n",
+        "price": "165"
+    },
+    {
+        "type": "story2",
+        "grid_position": "product3",
+        "visual": "hp-story-02-c.jpg",
+        "cta_text": "MASAMO-22",
+        "cta_link_hybris": "http://www.aldoshoes.com/ca/en/ALDO/men/boots/casual-boots/MASAMO/p/35403790-22",
+        "price": "165"
+    },
+    {
+        "type": "story2",
+        "visual": "hp-story-02-d.jpg"
+    },
+    {
+        "type": "blog",
+        "grid_position": "info",
+        "title": "Final Touch: Twinkle Toes ",
+        "copy": "A/BLOG",
+        "visual": "hp-blog-off-ca.jpg",
+        "visual_2": "hp-blog-on-ca.jpg"
+    },
+    {
+        "type": "blog",
+        "grid_position": "cta",
+        "cta_text": "READ MORE",
+        "cta_link": "http://blog.aldoshoes.com/details-details-sock-game/"
+    }
+]
