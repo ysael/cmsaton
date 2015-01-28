@@ -3,11 +3,12 @@
 // generated on 2015-01-23 using generator-gulp-webapp 0.2.0
 var gulp = require('gulp');
 var $ = require('gulp-load-plugins')();
+var sass = require('gulp-sass');
 
 gulp.task('styles', function () {
   return gulp.src('app/styles/main.scss')
     .pipe($.plumber())
-    .pipe($.rubySass({
+    .pipe(sass({
       style: 'expanded',
       precision: 10
     }))
